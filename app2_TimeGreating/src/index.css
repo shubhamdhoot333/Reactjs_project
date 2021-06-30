@@ -1,3 +1,26 @@
-.top{
-  color:antiquewhite;
+body {
+  background-color: #b4f2e1;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0%;
+  
+}
+div {
+  width: 100px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px ;
+  
+}
+
+h1{
+  padding: 20px 20px;
+  background-color: #ffe9c5;
+  color:#fa9191;
+ 
+  
+  text-align: center;
+  margin-left: 1200px;
 }
