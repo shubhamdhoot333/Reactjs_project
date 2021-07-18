@@ -1,0 +1,16 @@
+.top{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    font-size: 30px;
+    background-color:green;
+}
+*{
+    background-color: hotpink;
+}
+p{
+    color: blue ;
+    
+}
